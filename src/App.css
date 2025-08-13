@@ -138,7 +138,6 @@ body{
         transform: translateX(-50%);
     }
 }
-/* Optional: Custom tweaks for very small screens */
 @media (max-width: 576px) {
     .display-4 {
         font-size: 2rem;
